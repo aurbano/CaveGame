@@ -21,3 +21,5 @@ There are two classes:
 ###Meta
 
 Develped by [Alejandro U. Alvarez](http://urbanoalvarez.es)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-3181088-16/cavegame/readme)](https://github.com/aurbano)
